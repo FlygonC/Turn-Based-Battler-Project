@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 3ee33dfda799ccb48a17c8db77633476
+timeCreated: 1488327705
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KnightStand
+    21300002: KnightAttack1
+    21300004: KnightAttack2
+    21300006: KnightAttack3
+    21300008: KnightAttack4
+    21300010: KnightAttack5
+    21300012: KnightBlock
+    21300014: KnightHurt
+    21300016: KnightAttack6
+    21300018: KnightAttack7
+    21300020: KnightAttack8
+    21300022: KnightAttack9
+    21300024: KnightAttack10
+    21300026: KnightAttack11
+    21300028: KnightDown
+    21300030: Icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KnightStand
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 719
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: 0.31271842, y: 0.046578865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 506
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6271147, y: 0.030230435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.3219, y: 42.66986}
+        - {x: -21.3219, y: 10.669861}
+        - {x: -9.321899, y: -1.3301392}
+        - {x: 12.678101, y: -1.3301392}
+        - {x: 12.678101, y: 22.66986}
+        - {x: -11.321899, y: 42.66986}
+    - name: KnightAttack2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 506
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.29024205, y: 0.040669758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.519592, y: 26.535889}
+        - {x: -7.4804077, y: 26.535889}
+        - {x: -12.480408, y: 21.535889}
+        - {x: -12.480408, y: 4.5358887}
+        - {x: -8.480408, y: -1.4641113}
+        - {x: 11.519592, y: -1.4641113}
+        - {x: 13.519592, y: 13.535889}
+        - {x: 13.519592, y: 24.535889}
+      - - {x: 24.519592, y: 34.53589}
+        - {x: -0.4804077, y: 34.53589}
+        - {x: 0.5195923, y: 31.535889}
+        - {x: 27.519592, y: 17.535889}
+        - {x: 30.519592, y: 17.535889}
+        - {x: 30.519592, y: 31.535889}
+        - {x: 29.519592, y: 32.53589}
+    - name: KnightAttack3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 498
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.181151, y: 0.23672256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.681732, y: 30.531097}
+        - {x: -0.31826782, y: 30.531097}
+        - {x: -12.318268, y: 25.531097}
+        - {x: -12.318268, y: -9.468903}
+        - {x: 55.681732, y: -9.468903}
+        - {x: 55.681732, y: 23.531097}
+        - {x: 53.681732, y: 29.531097}
+    - name: KnightAttack4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 495
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.37094194, y: 0.36638775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.162323, y: 4.542816}
+        - {x: -2.837677, y: -8.457184}
+        - {x: -6.837677, y: -11.457184}
+        - {x: -6.837677, y: -12.457184}
+        - {x: 20.162323, y: -12.457184}
+        - {x: 25.162323, y: -8.457184}
+        - {x: 25.162323, y: 4.542816}
+        - {x: 24.162323, y: 5.542816}
+      - - {x: 6.162323, y: 21.542816}
+        - {x: -9.837677, y: 21.542816}
+        - {x: -14.837677, y: 16.542816}
+        - {x: -14.837677, y: 2.5428162}
+        - {x: -12.837677, y: -5.457184}
+        - {x: 7.162323, y: -5.457184}
+        - {x: 16.162323, y: -1.4571838}
+        - {x: 16.162323, y: 9.542816}
+        - {x: 15.162323, y: 13.542816}
+    - name: KnightAttack5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 496
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.717469, y: 0.34446114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.851166, y: 21.632782}
+        - {x: -18.851166, y: 12.632782}
+        - {x: -17.851166, y: 9.632782}
+        - {x: -15.851166, y: 7.632782}
+        - {x: -25.851166, y: 0.632782}
+        - {x: -30.851166, y: -5.367218}
+        - {x: -30.851166, y: -11.367218}
+        - {x: 3.1488342, y: -11.367218}
+        - {x: 12.148834, y: -7.367218}
+        - {x: 12.148834, y: 18.632782}
+        - {x: 6.148834, y: 21.632782}
+    - name: KnightBlock
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 572
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5416599, y: 0.09010097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightHurt
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 614
+        width: 37
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 500
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7511482, y: 0.24128011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 506
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48230526, y: 0.107793175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51708245, y: 0.07133971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 224
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48402157, y: 0.073478274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.07752542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightAttack11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 224
+        width: 30
+        height: 51
+      alignment: 9
+      pivot: {x: 0.44221294, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightDown
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 729
+        width: 41
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6409257, y: 0.09913497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 773
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
